@@ -1,0 +1,11 @@
+fastmcp
+asyncio
+markdownify
+openai
+pydantic
+mcp
+readabilipy
+langchain_community
+langchain_groq
+playwright
+browserbase

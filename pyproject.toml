@@ -1,0 +1,23 @@
+[project]
+name = "puch-apply"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "asyncio>=3.4.3",
+    "bb>=0.1",
+    "browserbase>=1.4.0",
+    "fastapi>=0.115.13",
+    "fastmcp>=2.8.1",
+    "ipykernel>=6.29.5",
+    "langchain-community>=0.3.26",
+    "langchain-groq>=0.3.4",
+    "markdownify>=1.1.0",
+    "mcp>=1.9.4",
+    "openai>=1.88.0",
+    "playwright>=1.53.0",
+    "pydantic>=2.11.7",
+    "pypdf2>=3.0.1",
+    "readabilipy>=0.3.0",
+]
